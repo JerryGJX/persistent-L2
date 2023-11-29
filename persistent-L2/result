@@ -1,0 +1,7 @@
+GPU: NVIDIA A40
+L2 Cache Size: 6 MB
+Max Persistent L2 Cache Size: 4 MB
+[test] for normal
+Latency Without Using Persistent L2 Cache: 0.8910 ms
+[test] for persist
+Latency Without Using Persistent L2 Cache: 0.8903 ms
